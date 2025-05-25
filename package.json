@@ -14,9 +14,8 @@
     "firebase": "^11.8.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-hook-form": "^7.56.4",
-    "react-loader-spinner": "^6.1.6",
     "react-router-dom": "^7.6.0",
+    "react-spinners": "^0.17.0",
     "tailwind-merge": "^3.3.0"
   },
   "devDependencies": {
